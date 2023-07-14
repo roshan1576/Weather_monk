@@ -62,7 +62,7 @@ body {
   
   .flex {
     display: flex;
-    justify-content:centre;
+    justify-content:center;
     align-items: center;
   }
   
