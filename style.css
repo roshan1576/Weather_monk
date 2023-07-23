@@ -91,3 +91,19 @@ body {
     top: 0;
     left: 28%;
   }
+
+.heading {
+    padding: 10px;
+    background: url("https://64.media.tumblr.com/3e060ededb33b88899f62fb22998f357/tumblr_pshbou6py71qeyvpto1_500.gifv");
+    background-size: cover;
+    background-position: center;
+    -webkit-background-clip: text;
+    color: rgba(255, 255, 255, 0.323);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    text-align: center;
+  }
